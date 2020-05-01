@@ -1,3 +1,7 @@
+/*
+    input: 2 numbers a and b type integer
+    output: sum a and b
+*/
 #include <stdio.h>
 int main()
 {
